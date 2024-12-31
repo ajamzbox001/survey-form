@@ -35,7 +35,7 @@ body::before {
       rgba(224, 54, 54, 0.8),
       rgba(242, 118, 118, 0.7)
     ),
-    url("photos/art-gallery-01.jpg");
+    url("art-gallery.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
