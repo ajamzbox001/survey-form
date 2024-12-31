@@ -35,7 +35,7 @@ body::before {
       rgba(224, 54, 54, 0.8),
       rgba(242, 118, 118, 0.7)
     ),
-    url("art-gallery.jpg");
+    url("https://github.com/ajamzbox001/survey-form/blob/96197986d50c8c8133ca53239ed3d140a7db529a/art-gallery.jpg?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
